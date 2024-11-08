@@ -1,4 +1,4 @@
-namespace aspnetcoreapp.Models{
+namespace BasicMVC.Models{
 
     public class Message{
 
