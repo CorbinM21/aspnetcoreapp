@@ -1,7 +1,7 @@
 
 using Microsoft.EntityFrameworkCore;
 
-namespace BacisMVC.DataLayer{
+namespace BasicMVC.DataLayer{
 
     public class BasicDBContext : DBContext{
        
