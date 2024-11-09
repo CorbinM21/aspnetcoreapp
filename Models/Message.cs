@@ -1,9 +1,10 @@
 namespace BasicMVC.Models{
 
-    public class Message{
+    public class Message
+    {
 
-        public int MessageID {get; set;}
+        public int MessageID {get; set; }
 
-        public string MessageText{get; set;} = string.Empty
+        public string MessageText{get; set;} = string.Empty;
     }
 }

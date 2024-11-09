@@ -1,10 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using BasicMVC.DataLayer;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// add connection string
-builder.Services.AddDbContext<BasicDBContext>(options => options.useSqlite(builder.configuration.GetConnectionString("BasicMVCContextString")));
+// Add connection string
+builder.Services.AddDbContext<BasicDBContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("BasicMVCContextString")));
 
 var app = builder.Build();
 
@@ -12,10 +16,9 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-
-    app.useHsts();
-
+    app.UseHsts();
 }
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
@@ -24,7 +27,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name:"default",
+    name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

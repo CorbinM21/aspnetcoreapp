@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdm06\\aspnetcoreapp\\aspnetcoreapp.csproj": {}
+    "C:\\Users\\cdm06\\BasicMVC\\BasicMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdm06\\aspnetcoreapp\\aspnetcoreapp.csproj": {
+    "C:\\Users\\cdm06\\BasicMVC\\BasicMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdm06\\aspnetcoreapp\\aspnetcoreapp.csproj",
-        "projectName": "aspnetcoreapp",
-        "projectPath": "C:\\Users\\cdm06\\aspnetcoreapp\\aspnetcoreapp.csproj",
+        "projectUniqueName": "C:\\Users\\cdm06\\BasicMVC\\BasicMVC.csproj",
+        "projectName": "BasicMVC",
+        "projectPath": "C:\\Users\\cdm06\\BasicMVC\\BasicMVC.csproj",
         "packagesPath": "C:\\Users\\cdm06\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdm06\\aspnetcoreapp\\obj\\",
+        "outputPath": "C:\\Users\\cdm06\\BasicMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
