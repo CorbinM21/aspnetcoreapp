@@ -7,6 +7,10 @@ C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\BasicMVC.runtimeconfig.json
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\BasicMVC.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\BasicMVC.pdb
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Humanizer.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -22,6 +26,9 @@ C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\cdm06\BasicMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -112,6 +119,7 @@ C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.GeneratedMSBuildEditorConfig.e
 C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.AssemblyInfoInputs.cache
 C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.AssemblyInfo.cs
 C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.csproj.CoreCompileInputs.cache
+C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.RazorAssemblyInfo.cache
 C:\Users\cdm06\BasicMVC\obj\Debug\net8.0\BasicMVC.RazorAssemblyInfo.cs
